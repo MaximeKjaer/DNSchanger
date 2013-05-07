@@ -15,7 +15,9 @@ input = ""
 clear
 echo Please choose a DNS server:
 echo
-echo '0. DHCP / Disable'
+#Doesn't work yet.
+#echo '0. DHCP / Disable'
+
 echo '1. Google DNS'
 echo '2. Open DNS'
 echo '3. CensurfriDNS'
